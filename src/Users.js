@@ -5,7 +5,7 @@ class Users extends React.Component {
     users: [
       { id: 1, name: "john" },
       { id: 2, name: "greg" },
-      { id: 3, name: "arnold" }
+      { id: 3, name: "arnold" },
     ]
   };
 
